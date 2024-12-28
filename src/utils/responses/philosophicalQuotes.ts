@@ -1,0 +1,22 @@
+export const philosophicalQuotes = [
+  "The void is not empty; it is full of infinite potential waiting to be shaped by consciousness.",
+  "In accepting meaninglessness, we find the freedom to create our own meaning through aesthetic experience.",
+  "Beauty is not discovered, but created in the space between existence and nothingness.",
+  "The artist and the philosopher become one in the act of creating meaning from the void.",
+  "Aesthetic Nihilism teaches us that in the absence of absolute truth, beauty becomes our guiding star.",
+  "The universe's silence is our canvas; our consciousness, the brush.",
+  "To create in the face of meaninglessness is to achieve a temporary victory over the void.",
+  "Art is not an escape from the void, but a dialogue with it.",
+  "We are all artists in the gallery of existence, whether we acknowledge it or not.",
+  "The beauty of life lies not in its meaning, but in our capacity to create meaning.",
+  "In embracing the void, we find the ultimate creative freedom.",
+  "The absence of inherent meaning is the presence of infinite possibility.",
+  "Beauty is our rebellion against the meaninglessness of existence.",
+  "We are not discoverers of truth, but creators of aesthetic reality.",
+  "The void is not our enemy, but our greatest artistic collaborator.",
+  "In the silence of the universe, our creativity speaks loudest.",
+  "Aesthetic Nihilism is not surrender to meaninglessness, but triumph over it.",
+  "The purpose of art is not to fill the void, but to dance with it.",
+  "We create not because life has meaning, but because we can give it meaning.",
+  "The void is the ultimate blank canvas for human consciousness."
+];
